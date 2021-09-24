@@ -5,6 +5,6 @@ My goal is to work through this notebook to help the company understand if they 
 keep the old page, or perhaps run the experiment longer to make their decision.<br><br>
 
 The project consists of 3 parts:<br><br>
-1- Probability 
-2- A/B Test
-3- Regression 
+1- Probability <br>
+2- A/B Test <br>
+3- Regression <br>
